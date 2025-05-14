@@ -1,6 +1,6 @@
 ### ✅ 2. Use Case Diagram
 
-**File:** `features-and-functionalities.png`
+**File:** `features-and-functionality.png`
 
 This use case diagram visualizes how different users interact with the system:
 
